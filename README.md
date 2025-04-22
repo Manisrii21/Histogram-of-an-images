@@ -12,8 +12,6 @@ Read the gray and color image using imread()
 ### Step2:
 Print the image using imshow().
 
-
-
 ### Step3:
 Use calcHist() function to mark the image in graph frequency for gray and color image.
 
@@ -25,11 +23,10 @@ The Histogram of gray scale image and color image is shown.
 
 
 ## Program:
-```python
+
 # Developed By: MANI SRI LATHA M
 # Register Number: 212223110025
-```
-python code
+
 ```
 python
 
